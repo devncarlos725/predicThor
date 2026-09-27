@@ -4,6 +4,11 @@
   "main": "index.ts",
   "dependencies": {
     "expo": "~57.0.25",
+    "expo-camera": "~57.0.5",
+    "expo-document-picker": "~57.0.2",
+    "expo-image-picker": "~57.0.20",
+    "expo-print": "~57.0.2",
+    "expo-sharing": "~57.0.22",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
     "react-native": "0.86.3"
